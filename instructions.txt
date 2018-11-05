@@ -1,0 +1,10 @@
+Overiview:
+The program is written in python and consists of four files within the ./src file namely:
+
+-Bird.Py - This contains a Bird class and related methods
+-BirdRides.py - This is the class for Rides and related methods
+-User.py - This contains a user class and related methods
+-main.py - This is the main program that calls the methods in other classes
+
+Run Instructions:
+The program is run simply by running the main.py file in a python interpreter
